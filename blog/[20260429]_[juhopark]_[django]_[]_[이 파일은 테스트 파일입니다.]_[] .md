@@ -2,3 +2,13 @@
 
 * hello world 1
 * hello juho 2
+*  ![내이름](img/sum_nail.jpg)
+
+*  ```python
+*  print('hello juho')
+*  ```
+
+   ```py
+   print('GaGa')
+   ```
+   
