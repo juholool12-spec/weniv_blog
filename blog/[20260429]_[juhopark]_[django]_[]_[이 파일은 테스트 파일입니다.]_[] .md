@@ -2,7 +2,7 @@
 
 * hello world 1
 * hello juho 2
-*  ![내이름](img/juho_blog.jpg)
+*  ![내이름](img/a.jpg)
 
 *  ```python
 *  print('hello juho')
